@@ -81,6 +81,10 @@ pip install python-telegram-bot
 python bot.py
 
 Примеры работы
+<img width="342" height="143" alt="Screenshot_58" src="https://github.com/user-attachments/assets/a57e93dd-5702-4783-a3b9-d47e4d0db01c" />
+<img width="325" height="270" alt="Screenshot_59" src="https://github.com/user-attachments/assets/3695a1b8-54c5-4aec-abe1-101a63290ee6" />
+<img width="317" height="265" alt="Screenshot_60" src="https://github.com/user-attachments/assets/206a6fa1-0d8e-408b-92d8-21c2bb47ced5" />
+<img width="279" height="367" alt="Screenshot_61" src="https://github.com/user-attachments/assets/fbb5c2cf-9c6b-4d44-bf88-077422ebffdb" />
 
 
 📝 Лицензия
